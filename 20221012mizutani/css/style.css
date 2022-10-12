@@ -176,12 +176,9 @@
 }
 .service-wrapper{
   margin: 30px auto;
-
   display: grid;
   grid-template-columns: 50% 50%;
   grid-template-rows: 150px 150px;
-  column-gap: 1px;
-  row-gap: 1px;
 }
 .service-wrapper img{
   width: 120px;
